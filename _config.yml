@@ -59,8 +59,6 @@ content:
         # link_text: boringcompany.com
         sub_title: Economist
         caption: 2011 - Present
-        quote: >
-          
         description: | # this will include new lines to allow paragraphs
           Impact analisis on public policy and trade agreements. Medium and long term projections for agriculture. Computational economic modelling.
 
@@ -70,8 +68,6 @@ content:
         # link_text: boringcompany.com
         sub_title: Consultant
         caption: 2009-2011
-        quote: >
-         
         description: | # this will include new lines to allow paragraphs
           Policy analysis. Agricultural projections. Computational model maintainance and extension.
 
@@ -81,8 +77,6 @@ content:
         # link_text: boringcompany.com
         sub_title: Economist
         caption: 2006-2009
-        quote: >
-         
         description: | # this will include new lines to allow paragraphs
           Impact analisis on trade negotiations. Computational economic modelling.
 
@@ -93,8 +87,6 @@ content:
         title: UTDT (Torcuato Di Tella University)
         caption: 2006 - 2008
         sub_title: Postgraduate Certificate in Economics
-        quote: >
-         
         description: | # this will include new lines to allow paragraphs
           Main subjects: Statistical Inference, Econometrics, Time Series, Macroeconometrics, Numerical Methods, Dynamic Programming, Game Theory, Microeconomics, Macroeconomics
 
@@ -102,8 +94,6 @@ content:
         title: UBA (University of Buenos Aires)
         caption: 2000 - 2004
         sub_title: Licentiate in Economics
-        quote: >
-          
         description: | # this will include new lines to allow paragraphs        
           Main subjects: Econometrics, Microeconomics, Macroeconomics, Economic Growth, Money, Credit and Banks, Capital Markets
 
@@ -117,7 +107,7 @@ content:
 
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
